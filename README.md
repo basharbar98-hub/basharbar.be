@@ -1,5 +1,4 @@
 # basharbar.be
-i have this code and i want to make a website for it <!DOCTYPE html>
 <html lang="nl">
 <head>
 <meta charset="UTF-8">
